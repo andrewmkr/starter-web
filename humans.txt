@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Kravtsov	andrew@mail.com @andrewmkr
 
 # THANKS
 
